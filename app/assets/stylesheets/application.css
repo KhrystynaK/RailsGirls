@@ -17,3 +17,8 @@ body { padding-top: 60px; }
 footer { margin-top: 100px; }
 table, td, th { vertical-align: middle; border: none; }
 th { border-bottom: 1px solid #DDD; }
+.navbar-default { 
+	background-image: linear-gradient(to bottom, #F7D5BE 0%, #ffffff 100%);
+}
+
+.navbar a.brand { font-size: 18px; } .navbar a.brand:hover { color: #fff; background-color: transparent; text-decoration: none; }
